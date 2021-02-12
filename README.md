@@ -1,9 +1,9 @@
 # flutter
 
-* Cuppertino_app
+* ## Cuppertino_app
 
 This is my first app in cuppertino style.
 
-* Widget_app
+* ## Widget_app
 
 This is my first app in material style.
